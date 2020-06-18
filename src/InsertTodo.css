@@ -1,0 +1,24 @@
+.InsertTodo{
+    padding-bottom: 50px
+}
+
+.InsertTodo input{
+    margin: 3px;
+    padding: 10px;
+    border-radius: 15px;
+    border:none;
+    text-align: center;
+    background-color: #ffff;
+}
+
+.InsertTodo button{
+    border: none;
+    border-radius: 15px;
+    top: 27%;
+    left: 49%;
+    position: absolute;
+    padding: 10px;
+    color: #5ee2e7;
+    font-weight: bold;
+    font-size: x-large;
+}

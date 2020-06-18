@@ -1,0 +1,14 @@
+body{
+    padding-left: 40%;
+    padding-right: 40%;
+    text-align: center;
+    background-color: black;
+}
+
+.App{
+    padding: 15px;
+    background-color: #34e5eb;
+    margin-top: 15px;
+    border: black 2px linear;
+    border-radius: 15px;
+}
